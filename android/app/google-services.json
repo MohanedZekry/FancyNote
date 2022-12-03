@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "980116197046",
+    "project_id": "fancynote-9694a",
+    "storage_bucket": "fancynote-9694a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980116197046:android:73db4cfe6d5d87d34a6017",
+        "android_client_info": {
+          "package_name": "com.mohaned.fancynote.fancynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980116197046-6q20vun7n2gan12m34s48e2luhcmmj3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohaned.fancynote.fancynote",
+            "certificate_hash": "0f8e4257d14da4ad2603958858234024ffa933ae"
+          }
+        },
+        {
+          "client_id": "980116197046-pled5okjurrn7cv4jbojuviebfl0d2ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG3GIYSvU7ZyfwWpRTCEVilkTm206BkKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980116197046-pled5okjurrn7cv4jbojuviebfl0d2ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
